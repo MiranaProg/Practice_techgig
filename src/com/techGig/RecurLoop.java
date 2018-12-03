@@ -1,12 +1,8 @@
 package com.techGig;
 
 import java.util.ArrayList;
-<<<<<<< HEAD
 //Testing git
 //after reverting
-=======
-
->>>>>>> parent of c7e4bf5... testing git
 public class RecurLoop {
 
 	public static void main(String[] args) {
